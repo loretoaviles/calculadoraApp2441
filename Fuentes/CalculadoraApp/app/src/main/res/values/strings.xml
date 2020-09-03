@@ -3,4 +3,7 @@
     <string name="texto1">Hola Mundo</string>
     <string name="texto2">Hola Byron</string>
     <string name="btn_saludar">Saludar</string>
+    <string name="n2Label">N2</string>
+    <string name="n1Label">N1</string>
+    <string name="sumarText">+</string>
 </resources>
